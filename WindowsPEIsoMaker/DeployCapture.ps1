@@ -150,7 +150,7 @@ while ($mainLoop) {
         }
 
         # Deployed image successfully.
-        Write-Host -NoNewLine '    Image Deployed Successfully!' -ForegroundColor DarkGreen
+        Write-Host '    Image Deployed Successfully!' -ForegroundColor DarkGreen
 
         Write-Host -NoNewLine '    Press any key to continue...'
         $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown')
