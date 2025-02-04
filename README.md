@@ -20,3 +20,25 @@ Are you tired of spending countless hours manually provisioning Windows PCs? Loo
 Take your PC deployment process to the next level with ProvisionDismPC. Try it now and experience the benefits of a streamlined and efficient provisioning solution.
 
 Cheers Sebastian!
+
+---
+
+Copyright © 2025 Sebastian Steininger. All rights reserved.
+
+This work, including but not limited to documentation, code, and associated materials, is the intellectual property of Sebastian Steininger, where original. Unauthorized commercial use, reproduction, distribution, or modification of this work is strictly prohibited without prior written consent from the author.
+
+Third-Party Content
+
+Portions of this work may include content derived or copied from other authors, either under license or as non-original work. These parts are explicitly marked and are not subject to the same copyright restrictions as the original work. All rights to such third-party content remain with their respective owners.
+
+Permissions
+
+Non-commercial use by individuals and non-profit organizations is permitted, provided that proper attribution is given to the author for the original portions of this work.
+For any other use, including commercial purposes, please contact sebastian.steininger@outlook.com for permission.
+Disclaimer
+
+This work is provided "as is," without any warranties or guarantees of any kind, express or implied. The author shall not be held liable for any damages, losses, or issues arising from the use of this work. By using this work, you agree to these terms.
+
+Attribution Example:
+If you use this work, please include the following attribution:
+"Portions of this work are based on original material by Sebastian Steininger, © 2025. Used under non-commercial terms."
