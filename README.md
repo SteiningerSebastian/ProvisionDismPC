@@ -1,6 +1,6 @@
 # ProvisionDismPC
 
-Take a look at the hosted [Documentation](https://studyoer.stechininger.com/script/https%3A%2F%2Fraw.githubusercontent.com%2FSteiningerSebastian%2FProvisionDismPC%2Frefs%2Fheads%2Fmain%2FDocumentation%2FProvisionDismPC.md)
+Take a look at the hosted [Documentation](https://studyoer.logicbystein.com/script/https%3A%2F%2Fraw.githubusercontent.com%2FSteiningerSebastian%2FProvisionDismPC%2Frefs%2Fheads%2Fmain%2FDocumentation%2FProvisionDismPC.md)
 
 ## ProvisionDismPC: Simplifying Your PC Deployment Process
 
